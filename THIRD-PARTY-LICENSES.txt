@@ -1,6 +1,6 @@
-ウィンドウマン 第三者ライセンス表示 / Third-party licenses
+HeroesStation 第三者ライセンス表示 / Third-party licenses
 
-ウィンドウマン.exe には、次のオープンソースのソフトウェアが含まれています。
+HeroesStation.exe には、次のオープンソースのソフトウェアが含まれています。
 それぞれの著作権表示とライセンスを、以下に示します。
 Rust のクレート 233 個、JavaScript のパッケージ 4 個。
 
